@@ -1,0 +1,9 @@
+pandas
+alpha_vantage
+numpy
+matplotlib
+requests
+google-api-python-client
+json
+pickle
+textblob
