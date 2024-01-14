@@ -8,7 +8,7 @@ This repository is a collection of various data analysis projects, each focusing
 
 This project is focused on the analysis of stock market data. It includes exploratory data analysis, visualization, and predictive modeling for stock prices.
 
-- **Technologies Used**: Pandas, Matplotlib, Seaborn, AlphaVantage API
+- **Technologies Used**: Pandas, Matplotlib, Seaborn
 - **Key Concepts**: Time series analysis, Financial data analysis
 - [More about Stock Prices Analysis](./stock-prices-analysis)
 
